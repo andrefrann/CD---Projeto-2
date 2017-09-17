@@ -1,0 +1,3 @@
+eu acho que só tem um problema nessa fita. quando a gente da append naquela lista final, ele coloca os tweets numa ordem difrente, por 
+causa daquelas tabelas novas que a gente criou. ai quando for colocar lado a lado com a tabela original, os tweets n vao estar na mesma
+ordem, ai vai dar merda na hr de comparar.
